@@ -1,0 +1,26 @@
+fastapi
+uvicorn[standard]
+
+# Audio
+pydub
+ffmpeg-python
+soundfile
+
+# ASR
+openai-whisper
+
+# NLP Summarization
+transformers
+sentencepiece
+
+# Diarization
+pyannote.audio
+torch
+
+# Document Export
+python-docx
+reportlab
+
+# Utilities
+requests
+python-multipart
